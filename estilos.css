@@ -1,0 +1,16 @@
+body{
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+form{
+    margin: auto;
+    padding-top: 30px;
+    font-family: "Jersey 10 Charted", sans-serif;
+}
+
+.form-inpunt{
+    padding: 5px;
+}
